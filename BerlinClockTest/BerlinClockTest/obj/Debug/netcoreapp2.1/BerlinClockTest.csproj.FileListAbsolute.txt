@@ -1,0 +1,17 @@
+C:\Users\DavidH\devplay\netcore\BerlinClock\BerlinClockTest\BerlinClockTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\DavidH\devplay\netcore\BerlinClock\BerlinClockTest\BerlinClockTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\DavidH\devplay\netcore\BerlinClock\BerlinClockTest\BerlinClockTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\DavidH\devplay\netcore\BerlinClock\BerlinClockTest\BerlinClockTest\bin\Debug\netcoreapp2.1\BerlinClockTest.deps.json
+C:\Users\DavidH\devplay\netcore\BerlinClock\BerlinClockTest\BerlinClockTest\bin\Debug\netcoreapp2.1\BerlinClockTest.runtimeconfig.json
+C:\Users\DavidH\devplay\netcore\BerlinClock\BerlinClockTest\BerlinClockTest\bin\Debug\netcoreapp2.1\BerlinClockTest.runtimeconfig.dev.json
+C:\Users\DavidH\devplay\netcore\BerlinClock\BerlinClockTest\BerlinClockTest\bin\Debug\netcoreapp2.1\BerlinClockTest.dll
+C:\Users\DavidH\devplay\netcore\BerlinClock\BerlinClockTest\BerlinClockTest\bin\Debug\netcoreapp2.1\BerlinClockTest.pdb
+C:\Users\DavidH\devplay\netcore\BerlinClock\BerlinClockTest\BerlinClockTest\bin\Debug\netcoreapp2.1\BerlinClock.dll
+C:\Users\DavidH\devplay\netcore\BerlinClock\BerlinClockTest\BerlinClockTest\bin\Debug\netcoreapp2.1\BerlinClock.pdb
+C:\Users\DavidH\devplay\netcore\BerlinClock\BerlinClockTest\BerlinClockTest\obj\Debug\netcoreapp2.1\BerlinClockTest.csprojAssemblyReference.cache
+C:\Users\DavidH\devplay\netcore\BerlinClock\BerlinClockTest\BerlinClockTest\obj\Debug\netcoreapp2.1\BerlinClockTest.csproj.CoreCompileInputs.cache
+C:\Users\DavidH\devplay\netcore\BerlinClock\BerlinClockTest\BerlinClockTest\obj\Debug\netcoreapp2.1\BerlinClockTest.AssemblyInfoInputs.cache
+C:\Users\DavidH\devplay\netcore\BerlinClock\BerlinClockTest\BerlinClockTest\obj\Debug\netcoreapp2.1\BerlinClockTest.AssemblyInfo.cs
+C:\Users\DavidH\devplay\netcore\BerlinClock\BerlinClockTest\BerlinClockTest\obj\Debug\netcoreapp2.1\BerlinClockTest.csproj.CopyComplete
+C:\Users\DavidH\devplay\netcore\BerlinClock\BerlinClockTest\BerlinClockTest\obj\Debug\netcoreapp2.1\BerlinClockTest.dll
+C:\Users\DavidH\devplay\netcore\BerlinClock\BerlinClockTest\BerlinClockTest\obj\Debug\netcoreapp2.1\BerlinClockTest.pdb
